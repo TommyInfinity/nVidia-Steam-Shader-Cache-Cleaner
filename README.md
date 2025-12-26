@@ -1,6 +1,6 @@
 # 🎮 NVIDIA & Steam Shader Cache Cleaner
 
-A modern, sleek Windows desktop application for cleaning NVIDIA DirectX/OpenGL and Steam shader caches to improve gaming performance and free up disk space.
+A simple Windows desktop application for cleaning NVIDIA DirectX/OpenGL and Steam shader caches to improve gaming performance and free up disk space.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
@@ -17,6 +17,8 @@ A modern, sleek Windows desktop application for cleaning NVIDIA DirectX/OpenGL a
 - ⚡ **Single Executable** - Portable, no installation required
 
 ## 🖼️ Screenshots
+
+<img width="881" height="557" alt="kép" src="https://github.com/user-attachments/assets/618d6ab2-6d52-4f26-b604-94719a601ee9" />
 
 ### Main Interface
 The application features a clean, dark-themed interface with clearly separated cache sections:
