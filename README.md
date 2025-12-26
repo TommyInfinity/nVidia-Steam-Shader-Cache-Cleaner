@@ -18,7 +18,7 @@ A simple Windows desktop application for cleaning NVIDIA DirectX/OpenGL and Stea
 
 ## 🖼️ Screenshots
 
-<img width="881" height="557" alt="kép" src="https://github.com/user-attachments/assets/618d6ab2-6d52-4f26-b604-94719a601ee9" />
+<img width="881" height="559" alt="kép" src="https://github.com/user-attachments/assets/04f4b0be-178d-472f-803a-98743adbbc78" />
 
 ### Main Interface
 The application features a clean, dark-themed interface with clearly separated cache sections:
