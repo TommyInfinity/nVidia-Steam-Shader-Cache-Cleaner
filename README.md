@@ -95,6 +95,10 @@ Each section displays:
 - **Safe Deletion:** Files are permanently deleted (not moved to Recycle Bin)
 - **Performance:** Shader cache regeneration may cause temporary FPS drops after deletion
 
+## 👾 VirusTotal Check
+
+You can scan and check the file here > [Click here](https://www.virustotal.com/gui/file/28708242389e565ac5086ec743e9583a919509ce4571b7ebbb5bd3923969e489)
+Also you can upload and check for any virus or malicious stuff yourself [here](https://www.virustotal.com/gui/home/upload).
 
 ## 📝 License
 
