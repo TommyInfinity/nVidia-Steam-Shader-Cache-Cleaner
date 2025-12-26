@@ -72,21 +72,6 @@ Each section displays:
 
 ## 🛠️ Technical Details
 
-### Built With
-
-- **Framework:** .NET 9.0 (WPF)
-- **Language:** C#
-- **UI:** XAML with custom styling
-- **Architecture:** MVVM-ready code-behind pattern
-
-### Cache Locations Supported
-
-| Cache Type | Default Location |
-|-----------|------------------|
-| DirectX Cache | `%LocalAppData%\NVIDIA\DXCache` |
-| OpenGL Cache | `%LocalAppData%\NVIDIA\GLCache` |
-| Steam Shader Cache | Auto-detected from registry |
-
 ### Key Features Implementation
 
 - **Registry Reading:** Detects Steam installation path automatically
@@ -94,13 +79,35 @@ Each section displays:
 - **Size Calculation:** Efficient directory traversal with error handling
 - **Process Launching:** Opens Windows Explorer for folder navigation
 
-## 🔧 Building from Source
-
 ### Requirements
 
 - Visual Studio 2022 or later
 - .NET 9.0 SDK
 - Windows 10/11 SDK
 
-### Build Steps
 
+## ⚠️ Important Notes
+
+- **Administrator Rights:** Required for deleting protected cache files
+- **Steam Detection:** Automatically searches registry and common installation paths
+- **Safe Deletion:** Files are permanently deleted (not moved to Recycle Bin)
+- **Performance:** Shader cache regeneration may cause temporary FPS drops after deletion
+
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Inspired by [NVIDIA-GPU-Shader-Cache-Cleaner](https://github.com/dubbyOW/NVIDIA-GPU-Shader-Cache-Cleaner)
+- Built with modern WPF best practices
+- UI design influenced by Visual Studio's dark theme
+
+## 📧 Contact
+
+Project Link: [https://github.com/yourusername/nvidia-cache-cleaner](https://github.com/TommyInfinity/nVidia-Steam-Shader-Cache-Cleaner)
+
+---
+
+⭐ If you find this project useful, please consider giving it a star!
