@@ -97,8 +97,8 @@ Each section displays:
 
 ## 👾 VirusTotal Check
 
-You can scan and check the file here > [Click here](https://www.virustotal.com/gui/file/28708242389e565ac5086ec743e9583a919509ce4571b7ebbb5bd3923969e489)
-Also you can upload and check for any virus or malicious stuff yourself [here](https://www.virustotal.com/gui/home/upload).
+- You can scan and check the file here > [Click here](https://www.virustotal.com/gui/file/28708242389e565ac5086ec743e9583a919509ce4571b7ebbb5bd3923969e489)
+- Also you can upload and check for any virus or malicious stuff yourself [here](https://www.virustotal.com/gui/home/upload).
 
 ## 📝 License
 
